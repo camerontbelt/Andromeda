@@ -1,2 +1,10 @@
 BoM
 Ref	Value	DigiKeyPN
+R1,R2	16k
+R3,R4	10k		
+R5	10k	
+R6	20k	
+R7,R8	20k	
+RV1	1M	
+U1	LM741	
+P1,P2	Conn 1x4
